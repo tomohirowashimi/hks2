@@ -4,9 +4,9 @@
 
 .sub {
   display: inline-block;
-  padding:10em 5em;
+  padding:1em 2em 10em 2em;
   background-image: url(https://github.com/tomohirowashimi/hks2/blob/master/1.jpg?raw=true);
   background-repeat: no-repeat;
   font-size: 30px;
-  color: white;
+  color: black;
 }
